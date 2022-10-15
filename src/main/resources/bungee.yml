@@ -1,0 +1,4 @@
+name: Lilypad
+version: '${project.version}'
+main: me.trevon.lilypad.Main
+author: Tv

@@ -1,0 +1,4 @@
+no-permissions: "&cNo permission."
+usage: "&eUsage: &d/join <server...>"
+not-found: "&cThis server does not exist!"
+reload: "&dSuccessfully reloaded Lilypad!"
